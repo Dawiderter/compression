@@ -1,0 +1,2 @@
+[workspace]
+members = ["entropy", "arithmetic", "lzw", "jpegls", "quant", "filtering", "correction"]
